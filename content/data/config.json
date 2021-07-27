@@ -68,5 +68,6 @@
             }
         ]
     },
-    "domain": "https://green-europa-f876a.netlify.app"
+    "domain": "https://green-europa-f876a.netlify.app",
+    "favicon": "/images/daniprofile_transparent.svg"
 }

@@ -1,5 +1,5 @@
 ---
-title: Hi
+title: 'Hi, I''m Dani.'
 hide_title: true
 sections: []
 seo:

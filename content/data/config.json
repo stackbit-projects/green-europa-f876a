@@ -35,7 +35,8 @@
             {
                 "label": "Contact",
                 "url": "/contact/",
-                "style": "link"
+                "style": "link",
+                "icon": "github"
             }
         ]
     },

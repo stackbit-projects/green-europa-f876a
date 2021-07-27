@@ -38,7 +38,8 @@
                 "style": "link",
                 "icon": "github"
             }
-        ]
+        ],
+        "logo_img": "/images/wonderful-triceratops.svg"
     },
     "footer": {
         "content": "© 2021 Dani Goldber",

@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - title: 'Hi, I''m Dani.'
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: I belong at Carted.
     col_number: three
     is_numbered: false
     grid_items: []

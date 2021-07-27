@@ -2,7 +2,7 @@
 title: 'Hi, I''m Dani.'
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: 'Hi, I''m Dani.'
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three

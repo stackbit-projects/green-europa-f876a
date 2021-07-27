@@ -39,7 +39,8 @@
                 "icon": "github"
             }
         ],
-        "logo_img": "/images/wonderful-triceratops.svg"
+        "logo_img": "/images/wonderful-triceratops.svg",
+        "logo_img_alt": "Dani Goldberg Profile Photo"
     },
     "footer": {
         "content": "© 2021 Dani Goldber",

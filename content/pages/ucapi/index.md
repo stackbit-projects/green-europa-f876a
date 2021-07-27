@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Hi
 hide_title: true
 sections: []
 seo:

@@ -52,7 +52,7 @@
             },
             {
                 "label": "Email",
-                "url": "#",
+                "url": "#<a href=\"mailto:danigoldberg6@gmail.com?subject=Carted%20-%20Dani%20Goldberg\">danigoldberg6@gmail.com</a>",
                 "style": "button",
                 "icon": "dribbble",
                 "new_window": false,
